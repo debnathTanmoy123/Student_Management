@@ -1,0 +1,5 @@
+com\jspiders\app\Aspect\LoggingAspect.class
+com\jspiders\app\controller\StudentController.class
+com\jspiders\app\DTO\StudentDTO.class
+com\jspiders\app\DTO\Address.class
+com\jspiders\app\controller\LoginAndRegisterController.class
